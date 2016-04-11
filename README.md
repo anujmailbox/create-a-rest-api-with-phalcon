@@ -2,16 +2,17 @@
 ## Instructor: [Manish Kumar (MK)][instructor url]
 
 
-There’s a wide range of PHP frameworks out there and all of them claim to be special, in one way or another either. One of those frameworks is Phalcon but it’ll be a mistake to consider it just another PHP framework. What makes Phalcon unique and very special is it’s speed and the way it loads and runs. Infect Its the fastest PHP framework ever built!
+Phalcon is a full-stack PHP framework packed with the same features as all the rest, but with one important difference: Phalcon is the fastest PHP framework ever built! Instead of being written in PHP and loaded dynamically by your application, Phalcon a C-language extension that loads in your RAM as a PHP module. Which makes it blazing fast.
 
-In this course, Envato Tuts+ instructor Manish Kumar (MK) will show you how to create a simple REST API using the Phalcon php framework, The idea here is that you will create a rest api with functionalities like Create, Update, DELETE and Search with phalcon for a hypothetical Mobile Application that needs to consume this API. The api will be blessing fast and super easy and quick to build.
+In this course, Envato Tuts+ instructor Manish Kumar will teach you how to get started with the Phalcon PHP framework by building a simple REST API. You'll learn how to set up a development environment, how to define a database schema and API endpoints, and how to implement create, read, updated and delete (CRUD) operations to persist data to an SQL database.
 
 
 
 ## Source Files Description
 
+In this package you'll find the complete source and SQL dump for the course project: a simple REST API for information about cars.
 
-The source files contain both the rest api we developed during the course and the sql dump (schema + data) in separate folders: phalcon-api and sql.
+The source files are in the folder `phalcon-api` and the SQL dump is in the folder `sql`.
 
 ------
 
