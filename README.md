@@ -1,5 +1,5 @@
 # [Create a REST API with Phalcon][published url]
-## Instructor: [Manish Kumar (MK)][instructor url]
+## Instructor: [Manish Kumar][instructor url]
 
 
 Phalcon is a full-stack PHP framework packed with the same features as all the rest, but with one important difference: Phalcon is the fastest PHP framework ever built! Instead of being written in PHP and loaded dynamically by your application, Phalcon a C-language extension that loads in your RAM as a PHP module. Which makes it blazing fast.
